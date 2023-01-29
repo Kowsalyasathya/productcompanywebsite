@@ -491,7 +491,7 @@ CONTACTUS.HTML:
 ![OUTPUT](./IMAGES/products.jpg)
 ![OUTPUT](./IMAGES/people.jpg)
 ![OUTPUT](./IMAGES/contact.jpg)
-![output](./IMAGES/companyvali.jpg)
+![output](./IMAGES/companyvali.png)
 
 ## Result:
 
