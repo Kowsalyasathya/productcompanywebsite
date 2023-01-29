@@ -488,9 +488,13 @@ CONTACTUS.HTML:
 ## OUTPUT:
 
 ![OUTPUT](./IMAGES/home.jpg)
+
 ![OUTPUT](./IMAGES/products.jpg)
+
 ![OUTPUT](./IMAGES/people.jpg)
+
 ![OUTPUT](./IMAGES/contact.jpg)
+
 ![output](./IMAGES/companyvali.png)
 
 ## Result:
