@@ -491,9 +491,7 @@ CONTACTUS.HTML:
 ![OUTPUT](./IMAGES/products.jpg)
 ![OUTPUT](./IMAGES/people.jpg)
 ![OUTPUT](./IMAGES/contact.jpg)
-### Home Page:
-
-![output](./images/homepage.jpg)
+![output](./IMAGES/companyvali.jpg)
 
 ## Result:
 
